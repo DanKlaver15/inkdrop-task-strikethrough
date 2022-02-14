@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle task-strikethrough",
+        "command": "task-strikethrough:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "task-strikethrough",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "task-strikethrough:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

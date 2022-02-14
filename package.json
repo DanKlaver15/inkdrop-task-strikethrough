@@ -1,0 +1,13 @@
+{
+  "name": "task-strikethrough",
+  "main": "./lib/task-strikethrough",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/task-strikethrough",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
